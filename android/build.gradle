@@ -51,5 +51,5 @@ android {
 
 dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
-    implementation 'com.mercadopago.android.px:checkout:LOCAL-4.85.1-0908202113354910'
+    implementation 'com.mercadopago.android.px:checkout:LOCAL-4.84.0-09082021161828818'
 }
